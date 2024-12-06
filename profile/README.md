@@ -7,7 +7,7 @@
 Sirath Network Testnet Portal: [RollApps](https://playground.dymension.xyz/rollapps/sirathnetwork_6660-1/token) \
 Sirath Explorer (Cosmos-based chain): [Sirath Explorer](https://explorer.sirath.network/sirath) \
 Sirath EVM Explorer (EVM-Compatible Explorer): [Sirath EVM Explorer](https://evm-explorer.sirath.network) \
-Faucet Testnet: [Request$STN](https://faucet.sirath.network) \
+Faucet Testnet: [Request $STN](https://faucet.sirath.network) \
 Mining Dashboard: [Go Mining](https://mining.sirath.network)
 
 Official Website: [Sirath Network](https://sirath.network/) \
