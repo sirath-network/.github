@@ -14,7 +14,6 @@
 [Testnet Faucet](https://faucet.sirath.network) \
 [Sirath Explorer](https://explorer.sirath.network/sirath) \
 [Sirath EVM Explorer](https://evm-explorer.sirath.network) \
-[Mining Dashboard](https://mining.sirath.network) \
 [Playground Testnet RollApps](https://playground.dymension.xyz/rollapps/sirathnetwork_6660-1/token)
 
 ---
