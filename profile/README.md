@@ -11,10 +11,10 @@
 [Telegram Community](https://t.me/SirathNetwork) \
 [Telegram Annoucement](https://t.me/SirathNetworkNews)
 
-[Testnet Faucet](https://faucet.sirath.network) \
-[Sirath Explorer](https://explorer.sirath.network/sirath) \
-[Sirath EVM Explorer](https://evm-explorer.sirath.network) \
-[Playground Testnet RollApps](https://playground.dymension.xyz/rollapps/sirathnetwork_6660-1/token)
+[Testnet Faucet]() \
+[Sirath Explorer]() \
+[Sirath EVM Explorer]() \
+[RollApps Portal](https://portal.dymension.xyz/rollapps/sirathnetwork_1110-1/token)
 
 ---
 
