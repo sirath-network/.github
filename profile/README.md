@@ -11,11 +11,6 @@
 [Telegram Community](https://t.me/SirathNetwork) \
 [Telegram Annoucement](https://t.me/SirathNetworkNews)
 
-[Testnet Faucet]() \
-[Sirath Explorer]() \
-[Sirath EVM Explorer]() \
-[RollApps Portal](https://portal.dymension.xyz/rollapps/sirathnetwork_1110-1/token)
-
 ---
 
 ## Contact :
