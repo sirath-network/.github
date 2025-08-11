@@ -18,8 +18,5 @@
 
 ---
 
-## About Us :
-Sirath Network is a RollApps built on the Dymension Ecosystem, by utilizing rollup technology, Sirath Network aggregates transactions and publishes proofs to the main network, reducing transaction costs and increasing speed. Sirath Network RollApps serve as scalable Layer-2 solutions built on Dymension, enabling fast, low-cost, and secure transactions. These RollApps are ideal for building interoperable and decentralized applications (dApps) with the following tools and processes.
-
 ## Contact :
 Business Inquiry: [Contact Us](https://sirath.network/contact)
