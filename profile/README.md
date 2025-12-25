@@ -4,9 +4,9 @@
 
 ## Official Links :
 
-[Organization](https://dorahacks.io/org/sirath) \
 [X/Twitter](https://x.com/SirathNetwork) \
 [LinkedIn](https://www.linkedin.com/company/sirathnetwork) \
+[Organization](https://dorahacks.io/org/sirath) \
 [Discord Server](https://discord.gg/4xY6PYdjhz) \
 [Telegram Community](https://t.me/SirathNetwork) \
 [Telegram Annoucement](https://t.me/SirathNetworkNews)
