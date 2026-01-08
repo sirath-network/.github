@@ -1,6 +1,6 @@
 # Sirath Network
 
-![Banner](https://ibb.co.com/LhpJMNps)
+![Banner](https://i.ibb.co.com/x85fyF5r/barzakh-ai-image-2026-01-08-T06-29-12-223-Z.png)
 
 ## Official Links :
 
