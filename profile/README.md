@@ -1,6 +1,6 @@
 # Sirath Network
 
-![Banner](https://i.imgur.com/lo75FbC.png)
+![Banner](https://ibb.co.com/LhpJMNps)
 
 ## Official Links :
 
