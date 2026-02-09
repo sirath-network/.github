@@ -5,7 +5,7 @@
 ## Official Links :
 
 [Website](https://www.barzakh.tech/) \
-[Barzakh AI](https://chat.barzakh.tech/) \
+[BarzakhAI](https://chat.barzakh.tech/) \
 [X/Twitter](https://x.com/SirathNetwork) \
 [LinkedIn](https://www.linkedin.com/company/sirathnetwork) \
 [Organization](https://dorahacks.io/org/sirathnetwork) \
@@ -16,4 +16,4 @@
 ---
 
 ## Contact :
-Business Inquiry: [Contact Us](https://barzakh.framer.ai/contact)
+Business Inquiry: [Contact Us](https://www.barzakh.tech/contact)
