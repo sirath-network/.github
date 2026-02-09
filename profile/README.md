@@ -6,10 +6,10 @@
 
 [Website](https://www.barzakh.tech/) \
 [Barzakh AI](https://chat.barzakh.tech/) \
-[X (Twitter)](https://x.com/SirathNetwork) \
-[LinkedIn Profile](https://www.linkedin.com/company/sirathnetwork) \
 [Organization](https://dorahacks.io/org/sirathnetwork) \
 [Discord Server](https://discord.gg/4xY6PYdjhz) \
+[LinkedIn Profile](https://www.linkedin.com/company/sirathnetwork) \
+[X (formerly Twitter)](https://x.com/SirathNetwork) \
 [Telegram Community](https://t.me/SirathNetwork) \
 [Telegram Annoucement](https://t.me/SirathNetworkNews)
 
