@@ -4,6 +4,7 @@
 
 ## Official Links :
 
+[Website](https://www.barzakh.tech/)
 [X/Twitter](https://x.com/SirathNetwork) \
 [LinkedIn](https://www.linkedin.com/company/sirathnetwork) \
 [Organization](https://dorahacks.io/org/sirathnetwork) \
