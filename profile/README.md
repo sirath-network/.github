@@ -5,9 +5,9 @@
 ## Official Links :
 
 [Website](https://www.barzakh.tech/) \
-[BarzakhAI](https://chat.barzakh.tech/) \
-[X/Twitter](https://x.com/SirathNetwork) \
-[LinkedIn](https://www.linkedin.com/company/sirathnetwork) \
+[Barzakh AI](https://chat.barzakh.tech/) \
+[X (formerly Twitter)](https://x.com/SirathNetwork) \
+[LinkedIn Profile](https://www.linkedin.com/company/sirathnetwork) \
 [Organization](https://dorahacks.io/org/sirathnetwork) \
 [Discord Server](https://discord.gg/4xY6PYdjhz) \
 [Telegram Community](https://t.me/SirathNetwork) \
