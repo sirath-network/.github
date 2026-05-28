@@ -4,7 +4,7 @@
 
 ## Official Links :
 
-[Website](https://www.barzakh.tech/) \
+[Website](https://sirath.network) \
 [Barzakh AI](https://chat.barzakh.tech/) \
 [Organization](https://dorahacks.io/org/sirathnetwork) \
 [Discord Server](https://discord.gg/4xY6PYdjhz) \
@@ -16,4 +16,4 @@
 ---
 
 ## Contact :
-Business Inquiry: [Contact Us](https://www.barzakh.tech/contact)
+Business Inquiry: [Contact Us](https://sirath.networkcontact)
