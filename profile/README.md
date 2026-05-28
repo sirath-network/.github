@@ -16,4 +16,4 @@
 ---
 
 ## Contact :
-Business Inquiry: [Contact Us](https://sirath.networkcontact)
+Business Inquiry: [Contact Us](https://sirath.network/contact)
